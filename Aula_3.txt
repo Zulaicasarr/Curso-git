@@ -1,0 +1,192 @@
+    1  ls
+    2  ls-a
+    3  ls ..
+    4  pwd
+    5  ls
+    6  cd Desktop/
+    7  pwd
+    8  cd ..
+    9  cd ~
+   10  cd D
+   11  cd Desktop/
+   12  mkdir comandos
+   13  ls
+   14  cd comandos
+   15  mkdir pasta nova
+   16  ls
+   17  mkdir "pasta nova"
+   18  ls
+   19  mkdir -p new/old
+   20  ls
+   21  ls new
+   22  rm -r nova pasta
+   23  rm -r new
+   24  ls
+   25  mv "pasta nova" pasta_nova
+   26  ls
+   27  mkdir new
+   28  ls
+   29  mv new pasta_nova
+   30  ls
+   31  ls pasta_nova/
+   32  cd ..
+   33  cd comandos/
+   34  touch arquivo. txt
+   35  ls
+   36  cp arquivo. txt pasta_nova/
+   37  ls
+   38  ls
+   39  ls pasta_nova/
+   40  echo "Mensagem"
+   41  echo 'mensagem' > comando. txt
+   42  cat comando. txt
+   43  cat
+   44  cat > comando. txt
+   45  cat > comando.txt
+   46  cat comando.txt
+   47  cat >> comando.txt
+   48  cat comando. txt
+   49  cat comando.txt
+   50  cat comando.txt
+   51  cat comando. txt
+   52  cat comando. txt
+   53  novo
+   54  help cd
+   55  clear
+   56  cat comando. txt
+   57  cat comando. txc
+   58  clear
+   59  cat comando
+   60  hostory
+   61  ls pasta_nova/ll
+   62  clear
+   63  git config --global user. name 'Zulaica Sarr'
+   64  git config --global user. name 'Zatara JS'
+   65  git config --global user. name "zulaica"
+   66  git config --global user.name "Zalaica Sarr"
+   67  git config --global user.email 'zulaicasarr@gmail.com'
+   68  git config --global user. name "zulaica"
+   69  clear]
+   70  clear
+   71  git config --global user.name 'Zulaicasarr'
+   72  git config --global user.name 'Zulaicasarr'
+   73  git config --global user.email 'zulaicasarr@gmail.com
+   74  echo 'mensagem' > comando. txt
+   75  clear
+   76  git config --global user.name 'Zulaicasarr'
+   77  git config --global user.email 'zulaicasarr@gmail.com
+   78  git config --global user.name 'Zulaicasarr'
+   79  git config --global user.email 'zulaicasarr@gmail.com
+   80  git config --global user.email 'zulaicasarr@gmail.com
+   81  git config --global user.name 'Zulaicasarr'
+   82  git config --global user.email 'zulaicasarr@gmail.com'
+   83  git config user.name
+   84  cd Desktop/
+   85  mkdir Curso_Git
+   86  cd Curso_Git/
+   87  git config user.name
+   88  git init
+   89  git status
+   90  echo '#Aprendendo usar o Git' > readme.md
+   91  git ststus
+   92  git status
+   93  git add readme.md
+   94  git status
+   95  git comit -m 'Commit inicial'
+   96  git status
+   97  echo '##Aula 1' >> readme.md
+   98  git status
+   99  echo 'zulaicasarr' > participantes.txt
+  100  git status
+  101  git add .
+  102  git status
+  103  git restore --staged participantes.txt
+  104  git status
+  105  git restore --staged participantes.txt
+  106  git status
+  107  git rm --cached participantes.txt 
+  108  git status
+  109  git add participantes.txt
+  110  git status
+  111  git restore --staged .
+  112  git restore --staged .
+  113  git restore --staged .
+  114  git rm -r --cached .
+  115  git restore --staged .
+  116  git restore --staged .
+  117  git rm -r --cached .
+  118  ls
+  119  git status
+  120  git add readme.md
+  121  git status 
+  122  git add participantes.txt
+  123  git status
+  124  clear
+  125  git config --global user.name ' Zulaicasarr'
+  126  git config --global user.email 'zulaicasarr@gmail.com
+  127  clear
+  128  clear
+  129  git config --global user.name 'Zulaicasarr'
+  130  git config --global user.email 'zulaicasarr@gmail.com
+  131  git config --global user.email 'zulaicasarr@gmail.com'
+  132  git config user.name
+  133  cd Desktop/
+  134  mkdir Curso_Git
+  135  mkdir Curso_Git
+  136  <html>
+  137  <header>
+  138  ls
+  139  git delite
+  140  git -h
+  141  git rm comando
+  142  git delite
+  143  git rm -r comado
+  144  git rm -r comados
+  145  history
+  146  clear
+  147  git config --global user.name 'Zulaica Sarr'
+  148  git config --global user.email 'zulaicasarr@gamil.com'
+  149  git config user.name
+  150  cd Desktop
+  151  clear
+  152  git config --global user.name 'Zulaica Sarr'
+  153  git config --global user.email 'zulaicasarr@gamil.com
+git config --global user.email 'zulaicasarr@gamil.com'
+clear
+
+  154  clear
+  155  git config --global  user.name 'Zulaica Sarr'
+  156  git config  --global user.email 'zualicasarr@gmail.com'
+  157  git config user.name
+  158  cd Desktop
+  159  mkdir Curso-git
+  160  cd Curso-git
+  161  git config user.name
+  162  git init
+  163  git status
+  164  echo '#Aprendendo usar o Git' > readme.md
+  165  git status
+  166  git add readme.md
+  167  git status
+  168  git commit - m 'commit inicial'
+  169  git commit -m 'commit inicial'
+  170  git status
+  171  echo '#Aula 1' >> readme.md 
+  172  git status 
+  173  echo 'Zulaica Sarr' > participantes.txt
+  174  git status 
+  175  git edd .
+  176  git add .
+  177  git status 
+  178  git restore --staged participantes.txt 
+  179  git status 
+  180  git add participantes.txt 
+  181  git status 
+  182  git restore --staged .
+  183  git status 
+  184  git commit -am 'Alteração no readme'
+  185  git status 
+  186  git add participantes.txt 
+  187  git status 
+  188  git commit -m 'Adicionado participantes.txt'
+  189  history > Aula_3.txt
