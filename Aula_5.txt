@@ -1,0 +1,298 @@
+    1  ls
+    2  ls-a
+    3  ls ..
+    4  pwd
+    5  ls
+    6  cd Desktop/
+    7  pwd
+    8  cd ..
+    9  cd ~
+   10  cd D
+   11  cd Desktop/
+   12  mkdir comandos
+   13  ls
+   14  cd comandos
+   15  mkdir pasta nova
+   16  ls
+   17  mkdir "pasta nova"
+   18  ls
+   19  mkdir -p new/old
+   20  ls
+   21  ls new
+   22  rm -r nova pasta
+   23  rm -r new
+   24  ls
+   25  mv "pasta nova" pasta_nova
+   26  ls
+   27  mkdir new
+   28  ls
+   29  mv new pasta_nova
+   30  ls
+   31  ls pasta_nova/
+   32  cd ..
+   33  cd comandos/
+   34  touch arquivo. txt
+   35  ls
+   36  cp arquivo. txt pasta_nova/
+   37  ls
+   38  ls
+   39  ls pasta_nova/
+   40  echo "Mensagem"
+   41  echo 'mensagem' > comando. txt
+   42  cat comando. txt
+   43  cat
+   44  cat > comando. txt
+   45  cat > comando.txt
+   46  cat comando.txt
+   47  cat >> comando.txt
+   48  cat comando. txt
+   49  cat comando.txt
+   50  cat comando.txt
+   51  cat comando. txt
+   52  cat comando. txt
+   53  novo
+   54  help cd
+   55  clear
+   56  cat comando. txt
+   57  cat comando. txc
+   58  clear
+   59  cat comando
+   60  hostory
+   61  ls pasta_nova/ll
+   62  clear
+   63  git config --global user. name 'Zulaica Sarr'
+   64  git config --global user. name 'Zatara JS'
+   65  git config --global user. name "zulaica"
+   66  git config --global user.name "Zalaica Sarr"
+   67  git config --global user.email 'zulaicasarr@gmail.com'
+   68  git config --global user. name "zulaica"
+   69  clear]
+   70  clear
+   71  git config --global user.name 'Zulaicasarr'
+   72  git config --global user.name 'Zulaicasarr'
+   73  git config --global user.email 'zulaicasarr@gmail.com
+   74  echo 'mensagem' > comando. txt
+   75  clear
+   76  git config --global user.name 'Zulaicasarr'
+   77  git config --global user.email 'zulaicasarr@gmail.com
+   78  git config --global user.name 'Zulaicasarr'
+   79  git config --global user.email 'zulaicasarr@gmail.com
+   80  git config --global user.email 'zulaicasarr@gmail.com
+   81  git config --global user.name 'Zulaicasarr'
+   82  git config --global user.email 'zulaicasarr@gmail.com'
+   83  git config user.name
+   84  cd Desktop/
+   85  mkdir Curso_Git
+   86  cd Curso_Git/
+   87  git config user.name
+   88  git init
+   89  git status
+   90  echo '#Aprendendo usar o Git' > readme.md
+   91  git ststus
+   92  git status
+   93  git add readme.md
+   94  git status
+   95  git comit -m 'Commit inicial'
+   96  git status
+   97  echo '##Aula 1' >> readme.md
+   98  git status
+   99  echo 'zulaicasarr' > participantes.txt
+  100  git status
+  101  git add .
+  102  git status
+  103  git restore --staged participantes.txt
+  104  git status
+  105  git restore --staged participantes.txt
+  106  git status
+  107  git rm --cached participantes.txt 
+  108  git status
+  109  git add participantes.txt
+  110  git status
+  111  git restore --staged .
+  112  git restore --staged .
+  113  git restore --staged .
+  114  git rm -r --cached .
+  115  git restore --staged .
+  116  git restore --staged .
+  117  git rm -r --cached .
+  118  ls
+  119  git status
+  120  git add readme.md
+  121  git status 
+  122  git add participantes.txt
+  123  git status
+  124  clear
+  125  git config --global user.name ' Zulaicasarr'
+  126  git config --global user.email 'zulaicasarr@gmail.com
+  127  clear
+  128  clear
+  129  git config --global user.name 'Zulaicasarr'
+  130  git config --global user.email 'zulaicasarr@gmail.com
+  131  git config --global user.email 'zulaicasarr@gmail.com'
+  132  git config user.name
+  133  cd Desktop/
+  134  mkdir Curso_Git
+  135  mkdir Curso_Git
+  136  <html>
+  137  <header>
+  138  ls
+  139  git delite
+  140  git -h
+  141  git rm comando
+  142  git delite
+  143  git rm -r comado
+  144  git rm -r comados
+  145  history
+  146  clear
+  147  git config --global user.name 'Zulaica Sarr'
+  148  git config --global user.email 'zulaicasarr@gamil.com'
+  149  git config user.name
+  150  cd Desktop
+  151  clear
+  152  git config --global user.name 'Zulaica Sarr'
+  153  git config --global user.email 'zulaicasarr@gamil.com
+  154  git config --global user.email 'zulaicasarr@gamil.com'
+  155  clear
+  156  clear
+  157  git config --global  user.name 'Zulaica Sarr'
+  158  git config  --global user.email 'zualicasarr@gmail.com'
+  159  git config user.name
+  160  cd Desktop
+  161  mkdir Curso-git
+  162  cd Curso-git
+  163  git config user.name
+  164  git init
+  165  git status
+  166  echo '#Aprendendo usar o Git' > readme.md
+  167  git status
+  168  git add readme.md
+  169  git status
+  170  git commit - m 'commit inicial'
+  171  git commit -m 'commit inicial'
+  172  git status
+  173  echo '#Aula 1' >> readme.md 
+  174  git status 
+  175  echo 'Zulaica Sarr' > participantes.txt
+  176  git status 
+  177  git edd .
+  178  git add .
+  179  git status 
+  180  git restore --staged participantes.txt 
+  181  git status 
+  182  git add participantes.txt 
+  183  git status 
+  184  git restore --staged .
+  185  git status 
+  186  git commit -am 'Alteração no readme'
+  187  git status 
+  188  git add participantes.txt 
+  189  git status 
+  190  git commit -m 'Adicionado participantes.txt'
+  191  history > Aula_3.txt
+  192  git status 
+  193  git add .
+  194  gi commit -m 'Comandos da Aula 3'
+  195  git commit -m 'Comandos da Aula 3'
+  196  clear
+  197  git branch
+  198  git checkout -b feature
+  199  git branch
+  200  touch Nova_feature
+  201  git status 
+  202  git add Nova_feature
+  203  git commit -m 'Adicionando nova feature'
+  204  git log
+  205  git checkout master
+  206  git status 
+  207  git branch
+  208  git log 
+  209  git log Desktop
+  210  git log Desktop Curso_Git 
+  211  git log master
+  212  git checkout mastre
+  213  git branch
+  214  git branch
+  215  git status
+  216  git log
+  217  git checkout master
+  218  git status
+  219  cd Desktop/Curso_Git
+  220  cd Desktop/Cusro_git
+  221  clear
+  222  cd Desktop/Curso_Git/
+  223  clear
+  224  git log --since=1.days
+  225  clear
+  226  git reset --soft HEAD~
+  227  clear
+  228  ls
+  229  git checkout master
+  230  cd Desktop
+  231  cd Curso_git
+  232  git log
+  233  git status 
+  234  git checkout master
+  235  clear
+  236  cd Curso_Git/
+  237  clear
+  238  mkdir Curso_Git/
+  239  git status 
+  240  clear
+  241  mkdir Curso_Git/
+  242  clear
+  243  history
+  244  clear
+  245  cd Desktop/Curso_git
+  246  cd Desktop
+  247  git log master
+  248  git checkout masster
+  249  clear
+  250  git branch
+  251  git checkou -b master
+  252  git checkout -b master
+  253  clear
+  254  git master
+  255  clear
+  256  git log Curso_git
+  257  clear
+  258  cd Curso-git
+  259  git branch
+  260  cd feauture
+  261  git status 
+  262  git checkout feature 
+  263  git branch
+  264  clear
+  265  git branch
+  266  git status 
+  267  touch Nova_feature
+  268  git status 
+  269  git add Nova_feature 
+  270  git commit -m 'Adicionando nova feature'
+  271   git log
+  272  git checkout master 
+  273  git status 
+  274  git log
+  275  touch continuando_master
+  276  git add continuando_master
+  277  git commit -m 'Adicionado continuação na master'
+  278  git log
+  279  git checkout feature 
+  280  git log
+  281  git checkout -b feature2 master
+  282  git log
+  283  git branch -d feature2
+  284  git checkout master
+  285  git branch feature2
+  286  git branch -d feature2
+  287  git log
+  288  git checkout feature2
+  289  git checkout feature 
+  290  git log --pretty=oneline --graph
+  291  git merge master
+  292  git log
+  293  git log --pretty=oneline --graph
+  294  git reset --hard HEAD~
+  295  git log --pretty=oneline --graph
+  296  git rebase master
+  297  git log --pretty=oneline --graph
+  298  history > Aula_5.txt
